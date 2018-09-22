@@ -6,7 +6,7 @@ Setup:
 
 - Install `todoist-python`:
 
-```python
+```bash
 pip3 install --user todoist-python
 ```
 
