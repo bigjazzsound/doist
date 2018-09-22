@@ -10,7 +10,7 @@ Setup:
 pip3 install --user todoist-python
 ```
 
-- Add your API token to the environment variable 'TODOIST_API_KEY'
+- Add your API token to the environment variable `TODOIST_API_KEY`
 
 - Do work!
 
